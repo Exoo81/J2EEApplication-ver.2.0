@@ -7,8 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<h1>Initial project Maven/Spring ver.. 2.0</h1><br>
-	<h2>jakas zmiana </h2>
+		<h1>Initial project Maven/Spring ver.2.0</h1><br>
+	
 	
 </body>
 </html>
