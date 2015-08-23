@@ -9,6 +9,7 @@
 <body>
 		<h1>Initial project Maven/Spring ver.2.0</h1><br>
 	
-	
+	<h2>jakas zmiana</h2>
+	<h3>2 zmiana</h3>
 </body>
 </html>
