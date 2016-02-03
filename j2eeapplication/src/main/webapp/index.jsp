@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<h1><font color="red">Initial project Maven/Spring ver.2.0</font></h1><br>
+		<h1><font color="red">Initial project Maven/Spring ver.2.1</font></h1><br>
 </body>
 </html>
